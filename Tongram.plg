@@ -1,0 +1,18 @@
+--------------------Configuration: Tongram - Java Virtual Machine Release--------------------
+Begining build with project "D:\program files\DevStudio\MyProjects\Tongram\Tongram.dsp", at root.
+Active configuration is Java Virtual Machine Java Project (based on Java Virtual Machine Java Project)
+
+Project's tools are:
+			"Java Compiler" with flags "/O "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\WINDOWS\TEMP\RSP9104.TMP" with contents <D:\program files\DevStudio\MyProjects\Tongram\Tongram.java>
+Compiling...
+Microsoft (R) Visual J++ Compiler Version 1.01.7022
+Copyright (C) Microsoft Corp 1996. All rights reserved.
+
+
+
+
+Tongram - 0 error(s), 0 warning(s)
